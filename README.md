@@ -3,6 +3,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFnYThmNXNqOGdzZ2JjcHV1dTlnbjJjN2NlZm1raTI0MnQxemtlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="600" />
 </p>
 
+```md
+<div align="center">
+
+
 ```txt
 ██████   █████  ██    ██ ██       ██████  ██    ██ ███████ ██    ██ 
 ██   ██ ██   ██  ██  ██  ██      ██    ██ ██    ██ ██      ██    ██ 
