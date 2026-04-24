@@ -36,7 +36,7 @@
 -  Student with strong curiosity toward science and technology  
 -  Interested in programming, networking, and system fundamentals  
 -  Enjoy digital drawing (mouse-based illustration)  
--  Music enthusiast (Rock, Metal, Ambient, J-Pop)
+-  Music enthusiast (Rock, Metal, J-Pop)
 
 ---
 
