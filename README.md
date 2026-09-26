@@ -33,14 +33,11 @@
 ---
 
 ## About Me
--  Student with strong curiosity toward science and technology  
--  Interested in programming, networking, and system fundamentals  
--  Enjoy digital drawing (mouse-based illustration)  
--  Music enthusiast (Rock, Metal, J-Pop)
+-  16 yo
 
 ---
 
-## Tech Stack
+## Currently learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,windows,linux" />
 </p>
@@ -51,13 +48,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RayLoveU&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## Currently Learning
-- Programming fundamentals  
-- Cybersecurity basics  
-- System & network concepts  
 
 ---
 
