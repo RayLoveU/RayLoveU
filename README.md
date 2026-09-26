@@ -44,13 +44,6 @@
 
 ---
 
-## Streak
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RayLoveU&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## Profile Link
 <p align="center">
   <a href="https://github.com/RayLovesU">
