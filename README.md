@@ -28,7 +28,7 @@
                                                                                                                                                                                             
 ```
 <h1 align="center">Hi, I'm Ray</h1>
-<h3 align="center">Curious Student | Technology Explorer | Creative Mind</h3>
+<h3 align="center">I love Tech</h3>
 
 ---
 
