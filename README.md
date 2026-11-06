@@ -33,13 +33,13 @@
 ---
 
 ## About Me
--  16 yo
+-  I code just for fun
 
 ---
 
 ## Currently learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,windows,linux" />
 </p>
 
 ---
