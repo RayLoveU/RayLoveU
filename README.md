@@ -46,7 +46,7 @@
 
 ## Streak
 <p align="center">
- <a href="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RayLoveU&locale=id&timezone=%2B7)](https://git.io/streak-stats)">
+ <a href="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RayLoveU&locale=id&timezone=%2B7" alt="GitHub Streak" /></a>
  </a>
 </p>
 
