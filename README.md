@@ -44,6 +44,14 @@
 
 ---
 
+##Streak
+<p align="center">
+ <a href="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RayLoveU&locale=id&timezone=%2B7)](https://git.io/streak-stats)">
+ </a>
+</p>
+
+---
+
 ## Profile Link
 <p align="center">
   <a href="https://github.com/RayLovesU">
