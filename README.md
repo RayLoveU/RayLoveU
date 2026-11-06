@@ -33,7 +33,7 @@
 ---
 
 ## About Me
--  I code just for fun
+-  I learn code just for fun
 
 ---
 
