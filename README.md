@@ -46,7 +46,7 @@
 
 ## Streak
 <p align="center">
- <a href="<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RayLoveU&locale=id&timezone=%2B7" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RayLoveU&theme=dark&timezone=%2B7" alt="GitHub Streak" /></a>"
  </a>
 </p>
 
