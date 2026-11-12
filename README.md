@@ -39,7 +39,7 @@
 
 ## Currently learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,windows,linux" />
 </p>
 
 ---
